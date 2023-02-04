@@ -26,7 +26,7 @@
   "gui.yes": "Es",
   "gui.no": "Non",
   "gui.none": "None",
-  "gui.all": "All",
+  "gui.all": "All (:kill all)",
   "gui.ok": "Ok",
   "gui.proceed": "Proceed",
   "gui.recipebook.moreRecipes": "Right Click for more",
