@@ -5114,7 +5114,7 @@
   "multiplayer.downloadingTerrain": "DataStoreService:GetAsync()ing terrain...",
   "multiplayer.lan.server_found": "New server found: %s",
   "multiplayer.message_not_delivered": "Can't deliver chat message, check server logs: %s",
-  "multiplayer.player.joined": "%s joined the ",
+  "multiplayer.player.joined": "%s joined the gam",
   "multiplayer.player.joined.renamed": "%s (formerly known as %s) joined the gam",
   "multiplayer.player.left": "%s left the gam",
   "multiplayer.player.list.hp": "%shp",
